@@ -6,6 +6,7 @@ h1{
 }
 li{
     -webkit-text-fill-color: rgb(2, 2, 2);
+    text-align: left;
 }
 img{
     width: 190px; height: 240px;
@@ -17,4 +18,7 @@ h2[value="1"]
 h2
 {
    -webkit-text-fill-color: rgb(20, 85, 72);
+}
+*{
+    text-align: center;
 }
