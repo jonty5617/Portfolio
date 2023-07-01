@@ -1,23 +1,23 @@
 h1{
-    -webkit-text-fill-color: rgb(20, 85, 72);
+   color: #22A699; -webkit-text-stroke-color: rgba(0, 0, 0, 0.473); -webkit-text-stroke-width: 0.6px; font-family: cursive;
 }
 *{
-    background-color:  rgb(173, 173, 173,0.617);
+    background-color:  #F2BE22;
 }
 li{
     -webkit-text-fill-color: rgb(2, 2, 2);
-    text-align: left;
+    text-align: justify; font-family: Arial, Helvetica, sans-serif;
 }
 img{
-    width: 190px; height: 240px;
+    width: 190px; height: 240px; border:5px solid #dad0ae; padding:-1px; margin: 2px; 
 }
 h2[value="1"]
 {
-   -webkit-text-fill-color:  red;
+   -webkit-text-fill-color: #F24C3D
 }
 h2
 {
-   -webkit-text-fill-color: rgb(20, 85, 72);
+   -webkit-text-fill-color: #22A699;
 }
 *{
     text-align: center;
